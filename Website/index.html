@@ -25,7 +25,7 @@
           {{ listingInfo.Author.Email }}
         </fluent-tooltip>
         {{~ end; ~}}
-        <div class="caption1 mb-2" id="publishedByText">Published by <a href="{{listingInfo.Author.Url}}" target="_blank">{{ listingInfo.Author.Name }}</a></div>
+        <div class="caption1 mb-2" id="publishedByText">发布者 <a href="{{listingInfo.Author.Url}}" target="_blank">{{ listingInfo.Author.Name }}</a></div>
         {{~ if listingInfo.InfoLink.Url ~}}
           <div class="caption1" id="publishedByText">
             <a href="{{listingInfo.InfoLink.Url}}" target="_blank">{{ if listingInfo.InfoLink.Text; listingInfo.InfoLink.Text; else; "Lean More"; end; }}</a>
@@ -172,7 +172,7 @@
       <fluent-data-grid id="packageGrid" role="grid" grid-template-columns="1fr 100px 220px">
         <fluent-data-grid-row row-type="header">
           <fluent-data-grid-cell cell-type="columnheader" grid-column="1">
-            Name
+            名称
           </fluent-data-grid-cell>
           <fluent-data-grid-cell cell-type="columnheader" grid-column="2">
             类型
