@@ -1,16 +1,16 @@
 {
-    "name":"鸭鸭鸭",
-    "id":"com.yaya.vpm",
+    "name":"活动日历",
+    "id":"com.rlvrc.vpm",
     "url":"https://mmyo456.github.io/events-calendar/index.json",
     "author":{
         "email":"yaya@qmq.moe",
-        "name":"鸭鸭",
-        "url":"https://www.qmq.moe"
+        "name":"91VRC",
+        "url":"https://rlvrc.cn/"
     },
     "description":"以下列表你可以在VCC里使用91VRChat的组件",
     "infoLink":{
-        "url":"https://mmyo456.github.io/events-calendar",
-        "text":"View on GitHub"
+        "url":"https://rlvrc.cn",
+        "text":"活动日历官网"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
