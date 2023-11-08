@@ -15,5 +15,13 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "mmyo456/events-calendar"
+    ],
+    "packages":[
+        {
+            "name":"com.rlvrc.cn",
+            "releases":[
+                "https://gitee.com/mmyo456/events-calendar/releases/download/1.0.0/com.rlvrc.cn0.8.41.zip",
+            ]
+        }
     ]
 }
