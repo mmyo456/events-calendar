@@ -20,8 +20,9 @@
         {
             "name":"com.rlvrc.cn",
             "releases":[
-                "https://gitee.com/mmyo456/events-calendar/releases/download/1.0.0/com.rlvrc.cn0.8.41.zip",
+                "https://i.qmq.moe/vpm/com.rlvrc.cn0.8.4.zip",
                 "https://i.qmq.moe/vpm/com.rlvrc.cn8.4.1-dev1.zip",
+                "https://i.qmq.moe/vpm/com.rlvrc.cn0.8.41.zip",
             ]
         }
     ]
