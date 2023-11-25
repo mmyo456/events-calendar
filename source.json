@@ -13,8 +13,6 @@
         "text":"活动日历官网"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "mmyo456/events-calendar"
     ],
     "packages":[
         {
