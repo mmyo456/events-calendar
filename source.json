@@ -17,15 +17,16 @@
         {
             "name":"com.rlvrc.cn",
             "releases":[
-                "https://i.qmq.moe/vpm/com.rlvrc.cn0.8.4.zip",
-                "https://i.qmq.moe/vpm/com.rlvrc.cn0.8.4-dev1.zip",
-                "https://i.qmq.moe/vpm/com.rlvrc.cn0.8.4-dev2.zip",
-                "https://i.qmq.moe/vpm/com.rlvrc.cn0.8.5.zip",
-                "https://i.qmq.moe/vpm/com.rlvrc.cn0.8.6.zip",
-                "https://i.qmq.moe/vpm/com.rlvrc.cn0.8.7.zip",
-                "https://i.qmq.moe/vpm/com.rlvrc.cn0.8.8.zip",
-                "https://i.qmq.moe/vpm/com.rlvrc.cn0.8.9-dev.zip",
-                "https://i.qmq.moe/vpm/com.rlvrc.cn0.8.9-dev.zip",
+                "https://rlvrc.cn/api/vpm/com.rlvrc.cn0.8.4.zip",
+                "https://rlvrc.cn/api/vpm/com.rlvrc.cn0.8.4-dev1.zip",
+                "https://rlvrc.cn/api/vpm/com.rlvrc.cn0.8.4-dev2.zip",
+                "https://rlvrc.cn/api/vpm/com.rlvrc.cn0.8.5.zip",
+                "https://rlvrc.cn/api/vpm/com.rlvrc.cn0.8.6.zip",
+                "https://rlvrc.cn/api/vpm/com.rlvrc.cn0.8.7.zip",
+                "https://rlvrc.cn/api/vpm/com.rlvrc.cn0.8.8.zip",
+                "https://rlvrc.cn/api/vpm/com.rlvrc.cn0.8.9-dev.zip",
+                "https://rlvrc.cn/api/vpm/com.rlvrc.cn0.8.9-dev.zip",
+                "https://rlvrc.cn/api/vpm/com.rlvrc.cn0.9.0.zip",
             ]
         }
     ]
