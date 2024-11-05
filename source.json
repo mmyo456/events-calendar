@@ -1,5 +1,5 @@
 {
-    "name":"活动日历",
+    "name":"咕咕日历",
     "id":"com.rlvrc.vpm",
     "url":"https://mmyo456.github.io/events-calendar/index.json",
     "author":{
@@ -10,7 +10,7 @@
     "description":"以下列表你可以在VCC里使用91VRChat的组件",
     "infoLink":{
         "url":"https://rlvrc.cn/",
-        "text":"活动日历官网"
+        "text":"咕咕日历官网"
     },
     "bannerUrl":"banner.png",
     "packages":[
