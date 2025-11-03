@@ -1,7 +1,7 @@
 {
-    "name":"咕咕日历",
+    "name":"咕咕日记",
     "id":"com.rlvrc.vpm",
-    "url":"https://mmyo456.github.io/events-calendar/index.json",
+    "url":"http://vpm.rlvrc.cn/index.json",
     "author":{
         "email":"oychengjiu@163.com",
         "name":"91VRC",
