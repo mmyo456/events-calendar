@@ -16,6 +16,14 @@ body {
   justify-content: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: var(--neutral-foreground-rest);
+  position: relative;
+}
+
+.language-switcher {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
 }
 
 .hidden {
@@ -131,10 +139,11 @@ h1 {
   border-radius: 6px;
   max-width: 90%;
   width: 100%;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
   margin-bottom: 0.25rem;
+  min-height: 200px;
 }
 
 .badge {

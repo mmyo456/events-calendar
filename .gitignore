@@ -1,2 +1,7 @@
 ﻿.idea
 .vscode
+
+# 构建输出
+dist/
+*.pyc
+__pycache__/
