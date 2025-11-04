@@ -1,16 +1,16 @@
 {
-    "name":"咕咕日记",
+    "name":"GuGu Diary",
     "id":"com.rlvrc.vpm",
     "url":"https://vpm.rlvrc.cn/index.json",
     "author":{
         "email":"oychengjiu@gmail.com",
-        "name":"咕咕日记",
+        "name":"GuGu Diary",
         "url":"https://rlvrc.cn/"
     },
-    "description":"以下列表你可以在VCC里使用咕咕日记的组件",
+    "description":"The following list allows you to use GuGu Diary components in VCC",
     "infoLink":{
         "url":"https://rlvrc.cn/",
-        "text":"咕咕日记官网"
+        "text":"GuGu Diary Official Website"
     },
     "bannerUrl":"banner.png",
     "packages":[
@@ -29,7 +29,7 @@
                 "https://i.ouo.chat/api/rl/vpm/com.rlvrc.cn0.9.0.zip",
                 "https://i.ouo.chat/api/rl/vpm/com.rlvrc.cn0.9.1.zip",
                 "https://i.ouo.chat/api/rl/vpm/com.rlvrc.cn0.9.2.zip",
-                "https://i.ouo.chat/api/rl/vpm/com.rlvrc.cn0.9.3.zip",
+                "https://i.ouo.chat/api/rl/vpm/com.rlvrc.cn0.9.3.zip"
             ]
         }
     ]
